@@ -52,7 +52,4 @@ Alasan menggunakan framework  :
 - Module manager
 - Filemanager
 
-#### Module
-
-
 **Source Code** : [Google Drive](https://drive.google.com/file/d/1ZN97aUJ-WeyXi6wa28HmOpBxE4v9_W5l/view?usp=sharing)
